@@ -8,7 +8,7 @@
 
 [4. Configure Tor Browser with Known Obfs4 Bridge](#user-content-4-configure-tor-browser-with-known-obfs4-bridge)
 
-[5. Testing](#user-content-5-testing)
+[5. Test](#user-content-5-test)
 
 [6. Report Results](#user-content-6-report-results)
 
@@ -28,9 +28,9 @@ The normal way to download the Tor Browser is from the Tor Project website at ht
 
 In countries where the Tor Project website is blocked, you can request alternative download links by sending an email to gettor@torproject.org
 
-Specify your operating system (Windows, macOS, Linux, or Android) and optionally your locale (English = en, Chinese = zh).
+Specify your operating system (windows, osx, linux) and optionally your locale (English = en, Chinese = zh).
 
-Example: To get links for downloading Tor Browser for Linux in Chinese, send a message to gettor@torproject.org with the words linux zh on it.
+Example: To get links for downloading Tor Browser for Linux in Chinese, send a message to gettor@torproject.org with the words linux zh in it.
 
 GetTor will reply with links to download Tor Browser from their supported providers. They support the following providers: Github, Dropbox, and Google Drive.
 
@@ -70,7 +70,7 @@ In the Tor Browser, visit the Tor check page at https://check.torproject.org/?la
 
 ![Tor check page](tbzh008.png)
 
-## 5. Testing
+## 5. Test
 
 Once you have successfully visited the Tor check page, you can continue with tests of your own.
 
