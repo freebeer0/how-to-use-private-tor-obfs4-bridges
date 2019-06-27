@@ -1,4 +1,4 @@
-# Does GFW Block Private Tor Obfs4 Bridges?
+# How to Use Private Tor Obfs4 Bridges
 
 [1. Introduction](#user-content-1-introduction)
 
@@ -16,7 +16,7 @@
 
 ## 1. Introduction
 
-Here is how to test if the GFW blocks private Tor obfs4 bridges.
+Here is how to download Tor and connect to a private Tor obfs4 bridge.
 
 ## 2. Get Bridge Line
 
