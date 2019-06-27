@@ -38,7 +38,13 @@ Download the Tor Browser from one of the links in the email reply you receive.
 
 ## 4. Configure Tor Browser with Known Obfs4 Bridge
 
-These are the instructions for Windows. The process will be similar on other operating systems.
+These are the instructions for Windows. On macOS (OSX) you will need to double-click on the downloaded dmg file and drag Tor Browser to your Applications folder. On Linux, you will need to:
+
+* Open a terminal emulator
+* Change into your Downloads directory
+* Extract the setup file contents, e.g. `tar -xvJf tor-browser-linux64-8.5.3_zh-CN.tar.xz`
+* Change into the extracted Tor browser directory
+* Type `./start-tor-browser.desktop` to start the setup process
 
 Start by launching the Tor Browser installer.
 
