@@ -1,5 +1,13 @@
 # Does GFW Block Private Tor Obfs4 Bridges?
 
+[1. Introduction](#user-content-5-testing)
+[2. Get Bridge Line](#user-content-5-testing)
+[3. Get Tor Browser](#user-content-5-testing)
+[4. Configure Tor Browser with Known Obfs4 Bridge](#user-content-5-testing)
+[5. Testing](#user-content-5-testing)
+[6. Report Results](#user-content-5-testing)
+[7. Bibliography](#user-content-5-testing)
+
 ## 1. Introduction
 
 Here is how to test if the GFW blocks private Tor obfs4 bridges.
@@ -60,7 +68,11 @@ In the Tor Browser, visit the Tor check page at https://check.torproject.org/?la
 
 Once you have successfully visited the Tor check page, you can continue with tests of your own.
 
-## 6. Bibliography
+## 6. Report Results
+
+Please report the results of your testing. Did the bridge work? How was the speed?
+
+## 7. Bibliography
 
 [1] Cecylia Bocovich, Roger Dingledine, Alexander Færøy, Kat Hanna, Philipp Winter, and Taylor Yu. "Addressing Denial of Service Attacks on Free and Open Communication on the Internet." https://research.torproject.org/techreports/dos-censorship-report2-2019-05-31.pdf
 
