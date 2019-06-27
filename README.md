@@ -50,7 +50,7 @@ On Linux, you will need to:
 
 On Windows, double-click the downloaded Tor Browser install `exe` file.
 
-The installation process is then similar on macOS, Linux, and Windows.
+From this point on, the installation process looks similar on macOS, Linux, and Windows.
 
 Select your language and click **OK**.
 
