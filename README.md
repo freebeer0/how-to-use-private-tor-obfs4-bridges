@@ -4,17 +4,15 @@
 
 The normal way to download the Tor Browser is from the Tor Project website at https://www.torproject.org
 
-In countries where the Tor Project website is blocked, you can request alternative download providers by sending an email to gettor@torproject.org
+In countries where the Tor Project website is blocked, you can request alternative download links by sending an email to gettor@torproject.org
 
 Specify your operating system (Windows, macOS, Linux, or Android) and optionally your locale (English = en, Chinese = zh).
 
-Example: To get links for downloading Tor Browser in Chinese for Linux, send a message to gettor@torproject.org with the words linux zh on it.
+Example: To get links for downloading Tor Browser for Linux in Chinese, send a message to gettor@torproject.org with the words linux zh on it.
 
-GetTor will reply with links to download the Tor Browser from their supported providers. For now, they support the following providers: Github, Dropbox, and Google Drive. 
+GetTor will reply with links to download Tor Browser from their supported providers. They support the following providers: Github, Dropbox, and Google Drive.
 
-Download Tor Browser from one of the providers. 
-
-When done, check the integrity of the downloaded file.
+Download the Tor Browser from one of the links in the email reply you receive.
 
 ## Bibliography
 
