@@ -20,7 +20,7 @@ Here is how to test if the GFW blocks private Tor obfs4 bridges.
 
 ## 2. Get Bridge Line
 
-The first thing you need is the "bridge line" of a private Tor obfs4 bridge.
+The first thing you need is the "bridge line" of a private Tor obfs4 bridge. Store the bridge line in a text editor such as Gedit, TextEdit, Notepad, or Notepad++.
 
 ## 3. Get Tor Browser
 
@@ -56,7 +56,7 @@ When Tor Browser runs for the first time, click **Configure**.
 
 ![Tor Browser Configure](tbzh004.png)
 
-Check the box for **Tor is censored in my country**. Select the radio button for **Provide a bridge I know**. Paste your bridge line into the box. Click **Connect**.
+Check the box for **Tor is censored in my country**. Select the radio button for **Provide a bridge I know**. Paste your bridge line from your text editor into the box. Click **Connect**.
 
 ![Tor is censored in my country](tbzh005.png)
 
