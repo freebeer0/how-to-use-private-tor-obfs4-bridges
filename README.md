@@ -1,12 +1,18 @@
 # Does GFW Block Private Tor Obfs4 Bridges?
 
-[1. Introduction](#user-content-5-testing)
-[2. Get Bridge Line](#user-content-5-testing)
-[3. Get Tor Browser](#user-content-5-testing)
-[4. Configure Tor Browser with Known Obfs4 Bridge](#user-content-5-testing)
+[1. Introduction](#user-content-1-introduction)
+
+[2. Get Bridge Line](#user-content-2-get-bridge-line)
+
+[3. Get Tor Browser](#user-content-3-get-tor-browser)
+
+[4. Configure Tor Browser with Known Obfs4 Bridge](#user-content-4-configure-tor-browser-with-known-obfs4-bridge)
+
 [5. Testing](#user-content-5-testing)
-[6. Report Results](#user-content-5-testing)
-[7. Bibliography](#user-content-5-testing)
+
+[6. Report Results](#user-content-6-report-results)
+
+[7. Bibliography](#user-content-7-bibliography)
 
 ## 1. Introduction
 
