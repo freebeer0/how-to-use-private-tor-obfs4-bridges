@@ -22,6 +22,8 @@ Here is how to test if the GFW blocks private Tor obfs4 bridges.
 
 The first thing you need is the "bridge line" of a private Tor obfs4 bridge. Store the bridge line in a text editor such as Gedit, TextEdit, Notepad, or Notepad++.
 
+You can [create your own private obfs4 Tor bridge](https://freebeer0.blogspot.com/2019/06/private-obfs4-tor-bridge.html) on a virtual private server (VPS).
+
 ## 3. Get Tor Browser
 
 The normal way to download the Tor Browser is from the official Tor Project website at https://www.torproject.org
