@@ -78,7 +78,10 @@ Once you have successfully visited the Tor check page, you can continue with tes
 
 ## 6. Report Results
 
-Please report the results of your testing. Did the bridge work? How was the speed?
+Publish your findings. Did the bridge work? How was the speed? Did you have any problems? Do you have any other suggestions or comments?
+
+* You can add a comment on the Tor Blog https://blog.torproject.org/tors-new-anti-censorship-team-defending-open-internet
+* You can post on the subreddit for Tor https://www.reddit.com/r/TOR/
 
 ## 7. Bibliography
 
