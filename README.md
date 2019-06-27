@@ -24,9 +24,9 @@ The first thing you need is the "bridge line" of a private Tor obfs4 bridge.
 
 ## 3. Get Tor Browser
 
-The normal way to download the Tor Browser is from the Tor Project website at https://www.torproject.org
+The normal way to download the Tor Browser is from the official Tor Project website at https://www.torproject.org
 
-In countries where the Tor Project website is blocked, you can alternatively download from https://github.com/TheTorProject/gettorbrowser
+In countries where the Tor Project website is blocked, you can alternatively download from https://github.com/TheTorProject/gettorbrowser. These downloads may be less up to date than the ones on the official website.
 
 ## 4. Configure Tor Browser with Known Obfs4 Bridge
 
