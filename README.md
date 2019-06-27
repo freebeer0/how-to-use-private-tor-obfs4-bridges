@@ -76,6 +76,11 @@ In the Tor Browser, visit the Tor check page at https://check.torproject.org/?la
 
 Once you have successfully visited the Tor check page, you can continue with tests of your own.
 
+Using the Tor Browser, you can visit both Clearnet and Onion sites. Some examples:
+
+* _Wall Street Journal_ Clearnet https://cn.wsj.com/
+* _New York Times_ Onion https://cn.nytimes3xbfgragh.onion/
+
 ## 6. Report Results
 
 Publish your findings. Did the bridge work? How was the speed? Did you have any problems? Do you have any other suggestions or comments?
