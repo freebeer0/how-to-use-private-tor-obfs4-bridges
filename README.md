@@ -1,6 +1,14 @@
 # Does GFW Block Private Tor Obfs4 Bridges?
 
-## Get Tor Browser
+## 1. Introduction
+
+Here is how to test if the GFW blocks private Tor obfs4 bridges.
+
+## 2. Get Bridge Line
+
+The first thing you need is the "bridge line" of a private Tor obfs4 bridge.
+
+## 3. Get Tor Browser
 
 The normal way to download the Tor Browser is from the Tor Project website at https://www.torproject.org
 
@@ -14,7 +22,7 @@ GetTor will reply with links to download Tor Browser from their supported provid
 
 Download the Tor Browser from one of the links in the email reply you receive.
 
-## Configure Tor Browser with Known Obfs4 Bridge
+## 4. Configure Tor Browser with Known Obfs4 Bridge
 
 These are the instructions for Windows. The process will be similar on other operating systems.
 
@@ -48,7 +56,11 @@ In the Tor Browser, visit the Tor check page at https://check.torproject.org/?la
 
 ![Tor check page](tbzh008.png)
 
-## Bibliography
+## 5. Testing
+
+Once you have successfully visited the Tor check page, you can continue with tests of your own.
+
+## 6. Bibliography
 
 [1] Cecylia Bocovich, Roger Dingledine, Alexander Færøy, Kat Hanna, Philipp Winter, and Taylor Yu. "Addressing Denial of Service Attacks on Free and Open Communication on the Internet." https://research.torproject.org/techreports/dos-censorship-report2-2019-05-31.pdf
 
