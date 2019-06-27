@@ -26,15 +26,7 @@ The first thing you need is the "bridge line" of a private Tor obfs4 bridge.
 
 The normal way to download the Tor Browser is from the Tor Project website at https://www.torproject.org
 
-In countries where the Tor Project website is blocked, you can request alternative download links by sending an email to gettor@torproject.org
-
-Specify your operating system (windows, osx, linux) and optionally your locale (English = en, Chinese = zh).
-
-Example: To get links for downloading Tor Browser for Linux in Chinese, send a message to gettor@torproject.org with the words linux zh in it.
-
-GetTor will reply with links to download Tor Browser from their supported providers. They support the following providers: Github, Dropbox, and Google Drive.
-
-Download the Tor Browser from one of the links in the email reply you receive.
+In countries where the Tor Project website is blocked, you can alternatively download from https://github.com/TheTorProject/gettorbrowser
 
 ## 4. Configure Tor Browser with Known Obfs4 Bridge
 
