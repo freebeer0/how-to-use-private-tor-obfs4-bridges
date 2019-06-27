@@ -26,11 +26,13 @@ The first thing you need is the "bridge line" of a private Tor obfs4 bridge.
 
 The normal way to download the Tor Browser is from the official Tor Project website at https://www.torproject.org
 
-In countries where the Tor Project website is blocked, you can alternatively download from https://github.com/TheTorProject/gettorbrowser. These downloads may be less up to date than the ones on the official website.
+In countries where the Tor Project website is blocked, you can alternatively download from https://github.com/TheTorProject/gettorbrowser. These downloads may be less up-to-date than the ones on the official website.
 
 ## 4. Configure Tor Browser with Known Obfs4 Bridge
 
-Below are screenshots for Windows. On macOS (OSX), you will need to double-click on the downloaded `dmg` file and drag Tor Browser to your Applications folder. On Linux, you will need to:
+On macOS (OSX), you will need to double-click on the downloaded `dmg` file and drag Tor Browser to your Applications folder. 
+
+On Linux, you will need to:
 
 * Open a terminal emulator
 * Change into your `Downloads` directory
@@ -40,7 +42,9 @@ Below are screenshots for Windows. On macOS (OSX), you will need to double-click
 
 On Windows, double-click the downloaded Tor Browser install `exe` file.
 
-Select your language.
+The installation process is then similar on macOS, Linux, and Windows.
+
+Select your language and click **OK**.
 
 ![Tor Browser Installer Language](tbzh002.png)
 
