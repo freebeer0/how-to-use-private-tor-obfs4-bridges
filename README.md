@@ -14,6 +14,40 @@ GetTor will reply with links to download Tor Browser from their supported provid
 
 Download the Tor Browser from one of the links in the email reply you receive.
 
+## Configure Tor Browser with Known Obfs4 Bridge
+
+These are the instructions for Windows. The process will be similar on other operating systems.
+
+Start by launching the Tor Browser installer.
+
+Select your language.
+
+![Tor Browser Installer Language](tbzh002.png)
+
+Follow the prompts to install Tor Browser. When done, leave the boxes checked to **Run Tor Browser** and **Add Start Menu & Desktop shortcuts**. Click **Finish**.
+
+![Completing Tor Browser Setup](tbzh003.png)
+
+When Tor Browser runs for the first time, click **Configure**.
+
+![Tor Browser Configure](tbzh004.png)
+
+Check the box for **Tor is censored in my country**. Select the radio button for **Provide a bridge I know**. Paste your bridge line into the box. Click **Connect**.
+
+![Tor is censored in my country](tbzh005.png)
+
+Tor Browser attempts to connect to the Tor network via the bridge you provided.
+
+![Please wait while we establish a connection to the Tor network](tbzh006.png)
+
+If the connection is successful, the Tor start page appears.
+
+![Tor start page](tbzh007.png)
+
+In the Tor Browser, visit the Tor check page at https://check.torproject.org/?lang=zh_CN
+
+![Tor check page](tbzh008.png)
+
 ## Bibliography
 
 [1] Cecylia Bocovich, Roger Dingledine, Alexander Færøy, Kat Hanna, Philipp Winter, and Taylor Yu. "Addressing Denial of Service Attacks on Free and Open Communication on the Internet." https://research.torproject.org/techreports/dos-censorship-report2-2019-05-31.pdf
