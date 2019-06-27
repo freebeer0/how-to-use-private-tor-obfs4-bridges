@@ -24,6 +24,12 @@ The first thing you need is the "bridge line" of a private Tor obfs4 bridge. Sto
 
 You can [create your own private obfs4 Tor bridge](https://freebeer0.blogspot.com/2019/06/private-obfs4-tor-bridge.html) on a virtual private server (VPS).
 
+Here is a private bridge line you can use for your initial tests:
+
+```
+obfs4 142.93.131.148:6888 F9218773FA6EC41DF338155ABC6DE0A66FEF1498 cert=OJWZYeY1W+GzWYYHPYD96+Ld78PkdeAg7meVfE7lRuQaePxr98ZJXz1WfoET3osUgRRXPA iat-mode=0
+```
+
 ## 3. Get Tor Browser
 
 The normal way to download the Tor Browser is from the official Tor Project website at https://www.torproject.org
