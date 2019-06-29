@@ -22,13 +22,9 @@ Here is how to download Tor Browser to your computer and connect to a private To
 
 The first thing you need is the "bridge line" of a private Tor obfs4 bridge. Store the bridge line in a text editor such as Gedit, TextEdit, Notepad, or Notepad++.
 
-You can [create your own private obfs4 Tor bridge](https://freebeer0.blogspot.com/2019/06/private-obfs4-tor-bridge.html) on a virtual private server (VPS). This process will create a bridge line for you.
+You can [create your own private obfs4 Tor bridge](https://freebeer0.blogspot.com/2019/06/private-obfs4-tor-bridge.html) on a virtual private server (VPS). This process creates a bridge line for you.
 
-Here is the bridge line for an existing private obfs4 bridge. You can use this bridge for your initial tests. It is a long line, so make sure you copy all the way from the initial `obfs4` to the final `iat-mode=0`.
-
-```
-obfs4 142.93.131.148:6888 F9218773FA6EC41DF338155ABC6DE0A66FEF1498 cert=OJWZYeY1W+GzWYYHPYD96+Ld78PkdeAg7meVfE7lRuQaePxr98ZJXz1WfoET3osUgRRXPA iat-mode=0
-```
+Bridge lines are long, so make sure you copy all the way from the initial `obfs4` to the final `iat-mode=0`.
 
 ## 3. Get Tor Browser
 
