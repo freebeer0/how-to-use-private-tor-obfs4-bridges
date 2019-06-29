@@ -10,9 +10,7 @@
 
 [5. Test](#user-content-5-test)
 
-[6. Report Results](#user-content-6-report-results)
-
-[7. Bibliography](#user-content-7-bibliography)
+[6. Bibliography](#user-content-6-bibliography)
 
 ## 1. Introduction
 
@@ -85,14 +83,7 @@ Using the Tor Browser, you can visit both Clearnet and Onion sites. Some example
 * _Wall Street Journal_ Clearnet https://cn.wsj.com/
 * _New York Times_ Onion https://cn.nytimes3xbfgragh.onion/
 
-## 6. Report Results
-
-Publish your findings. Did the bridge work? How was the speed? Did you have any problems? Do you have any other suggestions or comments?
-
-* You can add a comment on the Tor Blog https://blog.torproject.org/tors-new-anti-censorship-team-defending-open-internet
-* You can post on the subreddit for Tor https://www.reddit.com/r/TOR/
-
-## 7. Bibliography
+## 6. Bibliography
 
 [1] Cecylia Bocovich, Roger Dingledine, Alexander Færøy, Kat Hanna, Philipp Winter, and Taylor Yu. "Addressing Denial of Service Attacks on Free and Open Communication on the Internet." https://research.torproject.org/techreports/dos-censorship-report2-2019-05-31.pdf
 
